@@ -24,8 +24,14 @@
   ## Project Objective
   For this assignment, we will create an employee directory with React. This assignment will require breaking up the application's UI into components, manage component state, and respond to user events.
   
+  ## Acceptance Criteria  
+  Given a table of random users generated from the [Random User API](https://randomuser.me/), when the user loads the page, a table of employees should render. The user should  be able to:
+  * Sort the table by at least one category
+  * Filter the users by at least one property.
+  
   ## User Story
   As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
+
   ## Technologies 
   ```
   React, Express, Axios
