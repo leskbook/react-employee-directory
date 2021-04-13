@@ -16,7 +16,7 @@
   * [ License ](#License)
   #
   ##  Project Links
-  https://github.com/leskbook/react_employess_directory<br>
+  https://github.com/leskbook/react_employee_directory<br>
   https://react-employee-directory-2021.herokuapp.com/
 
   ## Screenshots-Demo
