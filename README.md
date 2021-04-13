@@ -1,55 +1,57 @@
-# Unit 19 React Homework: Employee Directory
-
-## Overview
-
-For this assignment, you'll create a employee directory with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
-
-## User Story
-
-* As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
-
-## Business Context
-
-An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
-
-## Acceptance Criteria
-
-Given a table of random users generated from the [Random User API](https://randomuser.me/), when the user loads the page, a table of employees should render. 
-
-The user should be able to:
-
-  * Sort the table by at least one category
-
-  * Filter the users by at least one property.
-
-## Commit Early and Often
-
-One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
-
-1. Your commit history is a signal to employers that you are actively working on projects and learning new skills
-
-2. Your commit history allows you to revert your code base in the event that you need to return to a previous state
-
-Follow these guidelines for committing:
-
-* Make single purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits
-
-* Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history
-
-* Don't commit half done work, for the sake of your collaborators (and your future self!)
-
-* Test your application before you commit to ensure functionality at every step in the development process
-
-* We would like you to have well over 200 commits by graduation, so commit early and often!
-
-* Deploy this site to GitHub Pages using the [Create React App docs for deployment.](https://create-react-app.dev/docs/deployment/#github-pages)
-
-* **Important**: Be sure to push your codebase to GitHub and **NOT** your built and deployed code. Ensure this happens by following the above instructions and using the `gh-pages` branch to host the deployed application's code.
-
-## Submission on BCS
-
-You are required to submit the following:
-
-* the URL to the deployed application
-
-* the URL to the Github repository
+ 
+  # EMPLOYEE DIRECTORY
+  [![github-follow](https://img.shields.io/github/followers/leskbook?label=Follow&logoColor=purple&style=social)](https://github.com/leskbook)
+  [![project-languages-used](https://img.shields.io/github/languages/count/leskbook/react_employess_directory?color=important)](https://github.com/leskbook/react_employess_directory)
+  [![project-top-language](https://img.shields.io/github/languages/top/leskbook/react_employess_directory?color=blueviolet)](https://github.com/leskbook/react_employess_directory)
+  [![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
+  ## Table of Content
+  * [ Project Links ](#Project-Links)
+  * [ Screenshots-Demo ](#Screenshots)
+  * [ Project Objective ](#Project-Objective)
+  * [ User Story ](#User-Story)
+  * [ Technologies ](#Technologies)
+  * [ Installation ](#Installation)
+  * [ Usage ](#Usage)
+  * [ Credits and Reference ](#Credits-and-Reference)
+  * [ Tests ](#Tests)
+  * [ Author Contact ](#Author-Contact)
+  * [ License ](#License)
+  #
+  ##  Project Links
+  https://github.com/leskbook/react_employess_directory<br>
+  https://react-employee-directory-2021.herokuapp.com/
+  ## Screenshots-Demo
+  
+  
+  ## Project Objective
+  For this assignment, we will create a employee directory with React. This assignment will require breaking up the application's UI into components, manage component state, and respond to user events.
+  
+  ## User Story
+  As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
+  ## Technologies 
+  ```
+  React, Express, Axios
+  ```
+  
+  ## Installation
+  none
+  ## Usage 
+  Click on the provided Heroku link https://react-employee-directory-2021.herokuapp.com/
+  
+  ## Credits and Reference
+  none
+  ## Tests
+  
+  ## Author Contact
+  Contact the author with any questions!<br>
+  Github link: [leskbook](https://github.com/leskbook)<br>
+  Email: lesliek.book@gmail.com
+  ## License
+  This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.<br />
+  Copyright © 2021 [LESLIE BOOK](https://github.com/leskbook)
+  
+  <hr>
+  <p align='center'><i>
+  This README created by LESLIE BOOK
+  </i></p>
+  
