@@ -41,7 +41,7 @@
   ```
    
   ## Usage 
-  Click on the provided Heroku link https://react-employee-directory-2021.herokuapp.com/
+  Click on the provided Heroku link https://leskbook.github.io/react_employee_directory/
   
   ## Credits and Reference
   none
