@@ -9,11 +9,9 @@
   * [ Screenshots-Demo ](#Screenshots)
   * [ Project Objective ](#Project-Objective)
   * [ User Story ](#User-Story)
-  * [ Technologies ](#Technologies)
-  * [ Installation ](#Installation)
+  * [ Technologies ](#Technologies)  
   * [ Usage ](#Usage)
-  * [ Credits and Reference ](#Credits-and-Reference)
-  * [ Tests ](#Tests)
+  * [ Credits and Reference ](#Credits-and-Reference)  
   * [ Author Contact ](#Author-Contact)
   * [ License ](#License)
   #
@@ -24,7 +22,7 @@
   
   
   ## Project Objective
-  For this assignment, we will create a employee directory with React. This assignment will require breaking up the application's UI into components, manage component state, and respond to user events.
+  For this assignment, we will create an employee directory with React. This assignment will require breaking up the application's UI into components, manage component state, and respond to user events.
   
   ## User Story
   As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
@@ -32,15 +30,12 @@
   ```
   React, Express, Axios
   ```
-  
-  ## Installation
-  none
+   
   ## Usage 
   Click on the provided Heroku link https://react-employee-directory-2021.herokuapp.com/
   
   ## Credits and Reference
   none
-  ## Tests
   
   ## Author Contact
   Contact the author with any questions!<br>
