@@ -17,7 +17,7 @@
   #
   ##  Project Links
   https://github.com/leskbook/react_employee_directory<br>
-  https://react-employee-directory-2021.herokuapp.com/
+  https://leskbook.github.io/react_employee_directory/
 
   ## Screenshots-Demo
   
