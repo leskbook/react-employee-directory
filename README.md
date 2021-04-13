@@ -18,7 +18,10 @@
   ##  Project Links
   https://github.com/leskbook/react_employess_directory<br>
   https://react-employee-directory-2021.herokuapp.com/
+
   ## Screenshots-Demo
+  
+  ![](https://j.gifs.com/k89WME.gif)
   
   
   ## Project Objective
