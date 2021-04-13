@@ -1,8 +1,8 @@
  
   # EMPLOYEE DIRECTORY
   [![github-follow](https://img.shields.io/github/followers/leskbook?label=Follow&logoColor=purple&style=social)](https://github.com/leskbook)
-  [![project-languages-used](https://img.shields.io/github/languages/count/leskbook/react_employess_directory?color=important)](https://github.com/leskbook/react_employess_directory)
-  [![project-top-language](https://img.shields.io/github/languages/top/leskbook/react_employess_directory?color=blueviolet)](https://github.com/leskbook/react_employess_directory)
+  [![project-languages-used](https://img.shields.io/github/languages/count/leskbook/react_employees_directory?color=important)](https://github.com/leskbook/react_employees_directory)
+  [![project-top-language](https://img.shields.io/github/languages/top/leskbook/react_employees_directory?color=blueviolet)](https://github.com/leskbook/react_employees_directory)
   [![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
   ## Table of Content
   * [ Project Links ](#Project-Links)
